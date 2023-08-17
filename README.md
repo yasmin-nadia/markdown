@@ -1,14 +1,14 @@
 # Project Logo image ![Local Dining](https://github.com/yasmin-nadia/markdown/blob/main/OIP.jpg)
 
 ## Table of Contents
-• [Introduction](#introduction)
-• [Development Technology](#development-technology)
-• [Features](#features)
-• [Getting Started](#getting-started)
-• [Usage](#usage)
-• [Contributors](#contributors)
-• [Contact Information](#contact-information)
-• [License](#license)
+- Introduction
+- Development Technology
+- Features
+- Getting Started
+- Usage
+- Contributors
+- Contact Information
+- License
 
 ## Introduction
 Local Dining Guide is a user-friendly platform that aims to connect users with local dining 
