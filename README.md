@@ -1,5 +1,5 @@
 # Local Dining Guide
-![Local Dining](./https://github.com/yasmin-nadia/markdown/blob/main/OIP.jpg)
+![Local Dining](https://github.com/yasmin-nadia/markdown/blob/main/OIP.jpg)
 
 ## Introduction
 Local Dining Guide is a user-friendly platform that connects users with local dining options, providing a seamless dining experience. Whether you're a food enthusiast looking for new culinary experiences or a traveler seeking authentic local cuisine, our platform has you covered. Discover restaurants, explore menus, read reviews, and get directions all in one place.
