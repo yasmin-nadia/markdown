@@ -1,4 +1,4 @@
-# Project Logo image ![Local Dining](https://github.com/yasmin-nadia/markdown/blob/main/OIP.jpg)
+ ![Local Dining](https://github.com/yasmin-nadia/markdown/blob/main/OIP.jpg)
 
 ## Table of Contents
 - Introduction
